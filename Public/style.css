@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  height: 100vh;
+}
+
+/* TOPO */
+.top-area {
+  width: 100%;
+  height: 250px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* use apenas UMA versão da imagem */
+  background: url("Images/Foto de fundo - Pagina inicial.png") no-repeat center center;
+  background-size: cover;
+}
+
+.container {
+  text-align: center;
+}
+
+.title {
+  background-color: white;
+  padding: 10px 40px;
+  border-radius: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  display: inline-block;
+}
+
+.search-box {
+  width: 250px;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+
+.search-box::placeholder {
+  color: #888;
+}
+
+/* MENU */
+.menu {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.menu a {
+  background: #ddd;
+  padding: 8px 20px;
+  margin: 0 10px;
+  border-radius: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+/* MAIN */
+.main {
+  padding: 20px;
+}
+
+/* GRID */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+}
+
+/* CARDS */
+.card {
+  text-align: center;
+}
+
+.card h2 {
+  background: #ddd;
+  display: inline-block;
+  padding: 5px 20px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.card img {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.card p {
+  margin-top: 8px;
+}
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  padding: 15px;
+}
