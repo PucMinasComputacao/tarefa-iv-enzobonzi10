@@ -6,4 +6,18 @@ Enzo Bonzi Cassilhas
 
 Lugares e Experiências
 
-O projeto é site que você pode  buscar qualquer país e o resultado dessa busca mostra: pontos turisticos, restaurantes e outros, e também mostra avaliações sobre o lugar, quantidade de visistas e comentarios de pessoas que ja foram para esses lugares
+Proposta 2: lugares e expêriencias
+
+Proposta: O projeto é um site que você pode  buscar qualquer país e o resultado dessa busca mostra: pontos turisticos, restaurantes e outros, e também mostra avaliações sobre o lugar, quantidade de visistas e comentarios de pessoas que ja foram para esses lugares
+
+<img src="Public/Images/Wireframe-1.png">
+
+<img src="Public/Images/Wireframe-2.png">
+
+<img src="Public/Images/Wireframe-3.png">
+
+<img src="Public/Images/Print da homepage.png">
+
+
+
+
